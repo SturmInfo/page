@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SturmInfo</title>
+    <link href="https://sturminfo.github.io/page/feed.xml" rel="self" />
+    <link href="https://sturminfo.github.io/page" />
+    <updated>1970-01-01T03:00:00+03:00</updated>
+    <author>
+        <name>tov.Sev</name>
+    </author>
+    <id>https://sturminfo.github.io/page</id>
+
+</feed>
