@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>SturmTwo</title>
-    <link href="https://sturminfo.github.io/feed.xml" rel="self" />
-    <link href="https://sturminfo.github.io" />
+    <link href="https://sturminfo-github-io.hostman.site/feed.xml" rel="self" />
+    <link href="https://sturminfo-github-io.hostman.site" />
     <updated>2022-02-15T06:26:46+03:00</updated>
     <author>
         <name>tov.Sev</name>
     </author>
-    <id>https://sturminfo.github.io</id>
+    <id>https://sturminfo-github-io.hostman.site</id>
 
     <entry>
         <title>Единый курс марксизма</title>
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/edinyy-kurs-marksizma/"/>
-        <id>https://sturminfo.github.io/edinyy-kurs-marksizma/</id>
+        <link href="https://sturminfo-github-io.hostman.site/edinyy-kurs-marksizma/"/>
+        <id>https://sturminfo-github-io.hostman.site/edinyy-kurs-marksizma/</id>
 
         <updated>2022-02-15T06:26:46+03:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/sturmone/"/>
-        <id>https://sturminfo.github.io/sturmone/</id>
+        <link href="https://sturminfo-github-io.hostman.site/sturmone/"/>
+        <id>https://sturminfo-github-io.hostman.site/sturmone/</id>
 
         <updated>2022-02-15T05:23:50+03:00</updated>
             <summary>
@@ -55,8 +55,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/post-po-naboru/"/>
-        <id>https://sturminfo.github.io/post-po-naboru/</id>
+        <link href="https://sturminfo-github-io.hostman.site/post-po-naboru/"/>
+        <id>https://sturminfo-github-io.hostman.site/post-po-naboru/</id>
 
         <updated>2022-02-15T04:19:54+03:00</updated>
             <summary>
@@ -81,8 +81,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/chek-list-dlya-redaktora/"/>
-        <id>https://sturminfo.github.io/chek-list-dlya-redaktora/</id>
+        <link href="https://sturminfo-github-io.hostman.site/chek-list-dlya-redaktora/"/>
+        <id>https://sturminfo-github-io.hostman.site/chek-list-dlya-redaktora/</id>
 
         <updated>2022-02-15T04:18:50+03:00</updated>
             <summary>
@@ -125,8 +125,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/metodichka-po-debatam/"/>
-        <id>https://sturminfo.github.io/metodichka-po-debatam/</id>
+        <link href="https://sturminfo-github-io.hostman.site/metodichka-po-debatam/"/>
+        <id>https://sturminfo-github-io.hostman.site/metodichka-po-debatam/</id>
 
         <updated>2022-02-15T04:17:38+03:00</updated>
             <summary>
@@ -206,8 +206,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/pravila-oformleniya-materialov/"/>
-        <id>https://sturminfo.github.io/pravila-oformleniya-materialov/</id>
+        <link href="https://sturminfo-github-io.hostman.site/pravila-oformleniya-materialov/"/>
+        <id>https://sturminfo-github-io.hostman.site/pravila-oformleniya-materialov/</id>
 
         <updated>2022-02-15T03:59:30+03:00</updated>
             <summary>
@@ -259,8 +259,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/montazheru-2/"/>
-        <id>https://sturminfo.github.io/montazheru-2/</id>
+        <link href="https://sturminfo-github-io.hostman.site/montazheru-2/"/>
+        <id>https://sturminfo-github-io.hostman.site/montazheru-2/</id>
 
         <updated>2022-02-15T04:14:20+03:00</updated>
             <summary>
@@ -317,8 +317,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/pravila-napisaniya-scenariev/"/>
-        <id>https://sturminfo.github.io/pravila-napisaniya-scenariev/</id>
+        <link href="https://sturminfo-github-io.hostman.site/pravila-napisaniya-scenariev/"/>
+        <id>https://sturminfo-github-io.hostman.site/pravila-napisaniya-scenariev/</id>
 
         <updated>2022-02-15T04:13:46+03:00</updated>
             <summary>
@@ -366,8 +366,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/spisok-tem-dlya-scenariev/"/>
-        <id>https://sturminfo.github.io/spisok-tem-dlya-scenariev/</id>
+        <link href="https://sturminfo-github-io.hostman.site/spisok-tem-dlya-scenariev/"/>
+        <id>https://sturminfo-github-io.hostman.site/spisok-tem-dlya-scenariev/</id>
 
         <updated>2022-02-14T21:56:30+03:00</updated>
             <summary>
@@ -442,8 +442,8 @@
         <author>
             <name>tov.Sev</name>
         </author>
-        <link href="https://sturminfo.github.io/temy-dlya-statey-2022/"/>
-        <id>https://sturminfo.github.io/temy-dlya-statey-2022/</id>
+        <link href="https://sturminfo-github-io.hostman.site/temy-dlya-statey-2022/"/>
+        <id>https://sturminfo-github-io.hostman.site/temy-dlya-statey-2022/</id>
 
         <updated>2022-02-14T21:55:39+03:00</updated>
             <summary>
